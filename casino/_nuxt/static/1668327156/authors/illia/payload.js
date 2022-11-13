@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/illia", {data:[{}],fetch:{},mutations:void 0});
