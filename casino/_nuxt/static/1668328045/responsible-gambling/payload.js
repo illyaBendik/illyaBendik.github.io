@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/responsible-gambling", {data:[{}],fetch:{},mutations:void 0});

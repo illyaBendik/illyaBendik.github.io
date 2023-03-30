@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/sport-betting-apps", {data:[{}],fetch:{},mutations:void 0});

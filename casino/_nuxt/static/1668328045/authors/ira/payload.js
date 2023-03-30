@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/authors/ira", {data:[{}],fetch:{},mutations:void 0});
